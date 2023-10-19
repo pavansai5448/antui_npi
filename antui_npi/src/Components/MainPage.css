@@ -1,0 +1,10 @@
+.logo{
+    width: 100%;
+    max-width: 250px;
+    height: 80px;
+}
+
+.MainPageContent{
+    overflow-y: auto;
+    
+}
