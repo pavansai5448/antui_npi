@@ -1,0 +1,30 @@
+body,html{
+    height: 100%;
+}
+.LoginHeader{
+    background-color: rgba(0,0,0,0.3);
+    display:flex;
+
+}
+
+.LoginMainClass{
+    height: calc(100% -85px);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LoginPage{
+
+    
+    padding: 20px;
+    background-color: rgba(0,0,0,0.3);
+    border: 1px solid black;
+    border-radius: 10px ;
+
+}
+
+.LoginButtonAlign{
+
+    width: 100%;
+}
